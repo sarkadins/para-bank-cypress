@@ -1,5 +1,12 @@
 # Para-Bank Cypress Testing
 
+[![GitHub Contributors][contributors-shield]][contributors-url]
+[![GitHub Forks][forks-shield]][forks-url]
+[![GitHub Stars][stars-shield]][stars-url]
+[![GitHub Issues][issues-shield]][issues-url]
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 This repository contains automated test cases for the [Parabank application](https://parabank.parasoft.com/parabank/index.htm) using the Cypress framework. The test suite is designed to cover various functionalities of the Parabank website, ensuring its reliability and robustness through end-to-end testing.
 
 ## Table of Contents
@@ -109,6 +116,26 @@ The following test cases have been automated for the Parabank application:
 
 [![chai][chai-shield]][chai-url]
 
+
+[contributors-shield]: https://img.shields.io/github/contributors/priusz/swag-labs-autotest
+
+[contributors-url]: https://github.com/sarkadins/para-bank-cypress/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/priusz/swag-labs-autotest?style=social
+
+[forks-url]: https://github.com/sarkadins/para-bank-cypress/forks
+
+[stars-shield]: https://img.shields.io/github/stars/priusz/swag-labs-autotest?style=social
+
+[stars-url]: https://github.com/sarkadins/para-bank-cypress/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/priusz/swag-labs-autotest
+
+[issues-url]: https://github.com/sarkadins/para-bank-cypress/issues
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+[linkedin-url]: https://www.linkedin.com/in/soma-sarkadi-nagy/
 
 [cypress-shield]: https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e
 
