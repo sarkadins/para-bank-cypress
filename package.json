@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sarkadins/para-bank-cypress#readme",
   "devDependencies": {
-    "cypress": "^13.14.0"
+    "cypress": "^13.14.1"
   }
 }
