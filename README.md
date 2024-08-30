@@ -1,4 +1,4 @@
-# Para-Bank Cypress Testing
+# Para Bank - Cypress Testing
 
 [![GitHub Contributors][contributors-shield]][contributors-url]
 [![GitHub Forks][forks-shield]][forks-url]
