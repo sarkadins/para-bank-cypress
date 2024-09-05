@@ -1,4 +1,4 @@
-# Para-Bank Cypress Testing
+# Para Bank - Cypress Testing
 
 [![GitHub Contributors][contributors-shield]][contributors-url]
 [![GitHub Forks][forks-shield]][forks-url]
@@ -117,19 +117,19 @@ The following test cases have been automated for the Parabank application:
 [![chai][chai-shield]][chai-url]
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/priusz/swag-labs-autotest
+[contributors-shield]: https://img.shields.io/github/contributors/sarkadins/para-bank-cypress
 
 [contributors-url]: https://github.com/sarkadins/para-bank-cypress/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/priusz/swag-labs-autotest?style=social
+[forks-shield]: https://img.shields.io/github/forks/sarkadins/para-bank-cypress
 
 [forks-url]: https://github.com/sarkadins/para-bank-cypress/forks
 
-[stars-shield]: https://img.shields.io/github/stars/priusz/swag-labs-autotest?style=social
+[stars-shield]: https://img.shields.io/github/stars/sarkadins/para-bank-cypress
 
 [stars-url]: https://github.com/sarkadins/para-bank-cypress/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/priusz/swag-labs-autotest
+[issues-shield]: https://img.shields.io/github/issues/sarkadins/para-bank-cypress
 
 [issues-url]: https://github.com/sarkadins/para-bank-cypress/issues
 
