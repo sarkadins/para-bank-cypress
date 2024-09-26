@@ -104,6 +104,17 @@ The following test cases have been automated for the Parabank application:
     - Verifies that users can log out successfully.
     - Ensures that the session is terminated and the user is redirected to the login page.
 
+4. Open new Account
+
+    - Verifies that the user can successfully create a new account by selecting an account type and funding source.
+    - Confirms that the correct confirmation page is displayed upon successful account creation.
+
+5. Transfer Funds
+
+    - Validates that the user can transfer funds from one account to another.
+    - Ensures the correct amount is deducted from the source account and added to the destination account.
+    - Verifies that a success message is displayed upon completion of the transfer.
+
 ## Built with
 
 [![cypress][cypress-shield]][cypress-url]
