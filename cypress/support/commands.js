@@ -35,7 +35,7 @@ Cypress.Commands.add("registerNewUser", () => {
     cy.get("input[id='customer.address.zipCode']").type("3604")
     cy.get("input[id='customer.phoneNumber']").type("12345678")
     cy.get("input[id='customer.ssn']").type("6842396")
-    cy.get("input[id='customer.username']").type("john_doe")
+    cy.get("input[id='customer.username']").type("johnDoe")
     cy.get("input[id='customer.password']").type("test1234")
     cy.get("#repeatedPassword").type("test1234")
     cy.get("input[value='Register']").click()
@@ -50,7 +50,7 @@ Cypress.Commands.add("registerNewUser", () => {
 
   Cypress.Commands.add("login", () => {
     cy.visit('https://parabank.parasoft.com')
-        cy.get("input[name='username']").type('john_doe')
+        cy.get("input[name='username']").type('johnDoe')
         cy.get("input[name='password']").type('test1234')
         cy.get("input[value='Log In']").click()
         cy.get('body').then(($body) => {
